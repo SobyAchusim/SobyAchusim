@@ -1,16 +1,16 @@
-# Hi there, I'm Soby 👋
+# Heyy, I'm Soby 👋
 
-🎓 I'm a Biochemistry student passionate about science, data, and creative problem-solving.  
-🧪 Currently exploring bioinformatics, lab skills, and Python/R for scientific computing.  
-🎯 Planning a placement year to build hands-on biotech experience.
+🎓 I'm a 2nd-year Biochemistry student at the University of Southampton, passionate about science, data, and creative problem-solving.  
+🧪 Currently independently exploring bioinformatics, lab skills, and Python/R for scientific computing.  
+🎯 Planning on getting a placement year or summer internship at the end of my second year to build hands-on biotech experience.
 
 ---
 
 ## 🔧 Technical Skills
 
-- **Lab & Analytical:** CFU counting with Image J, agar plate prep, basic molecular biology
+- **Lab & Analytical:** Zeta potential, CFU counting with Image J, agar plate prep, basic molecular biology
 - **Programming:** Python (pandas)
-- **Other Tools:** Excel,
+- **Other Tools:** Excel
 
 ---
 
